@@ -10,8 +10,8 @@
     <script src="/js/carousel.js"></script>
   </head>
 
-  <body style="background-image: url('https://i.imgur.com/hA78Xq4.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
-    <div class="logo-container">
+  <body>
+    <div class="logo-container" style="background-image: url('https://i.imgur.com/hA78Xq4.jpg');">
         <img class="logo" src="https://i.imgur.com/I69dhud.png" />
     </div>
 
