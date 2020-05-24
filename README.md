@@ -1,4 +1,4 @@
-# MLH Digital Ocean Workshop
+# Digital Ocean Project
 
 ## Technologies used in this project
 
