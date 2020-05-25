@@ -1,19 +1,19 @@
 # Digital Ocean Project
+### Deployed to a DigitalOcean Droplet as host (using a load balancer for performance and flexibility).
+- Find dates of beach cleanups happening in the U.S. and around you
+- Able to search by beach name and location
+- Able to subscribe to desired beach cleanup events
 
 ## Technologies used in this project
+(With Advanced Package Tool)
+NodeJS
+Node Package Manager
 
-## NodeJS
+## NPM packages used
 
-Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices. NodeJS was the platform in which we built this application.
+[express](https://www.npmjs.com/package/express)
 
-### NPM packages used
+[request](https://www.npmjs.com/package/request)
 
-#### [express](https://www.npmjs.com/package/express)
-
-Fast, unopinionated, minimalist web framework for node. This is the framework with which we built the application.
-
-#### [request](https://www.npmjs.com/package/request)
-
-Request is designed to be the simplest way possible to make HTTP calls. It supports HTTPS and follows redirects by default.
-
-
+## DevOps (done on Digital Ocean)
+Maintaining code, Monitoring system health, Securing with cloud firewall and setting access control.
