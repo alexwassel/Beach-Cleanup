@@ -5,8 +5,11 @@
 - Able to subscribe to desired beach cleanup events
 
 ## Technologies used in this project
+
 (With Advanced Package Tool)
+
 NodeJS
+
 Node Package Manager
 
 ## NPM packages used
@@ -16,4 +19,4 @@ Node Package Manager
 [request](https://www.npmjs.com/package/request)
 
 ## DevOps (done on Digital Ocean)
-Maintaining code, Monitoring system health, Securing with cloud firewall and setting access control.
+Maintaining code, Monitoring system health, Securing with cloud firewall, and setting access control.
