@@ -1,12 +1,10 @@
-# Digital Ocean Project
+# Beach Cleanup Project
 ### Deployed to a DigitalOcean Droplet as host (using a load balancer for performance and flexibility).
 - Find dates of beach cleanups happening in the U.S. and around you
 - Able to search by beach name and location
 - Able to subscribe to desired beach cleanup events
 
 ## Technologies used in this project
-
-(With Advanced Package Tool)
 
 NodeJS
 
