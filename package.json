@@ -1,7 +1,19 @@
 {
-  "name": "mlh-localhost-digital-ocean",
+  "name": "beach-cleanup",
   "version": "1.0.0",
-  "description": "",
+  "description": "search for beach cleanup dates and location",
+  "homepage": "https://alexwassel.me/Beach-Cleanup/",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "license": "ISC",
+  "author": "Alex Wassel",
+  "contributors": [
+      "Alex Wassel (https://github.com/alexwassel)"
+  ],
+  "bugs": {
+    "url": "https://github.com/alexwassel/Beach-Cleanup/issues"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,15 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MLH/mlh-localhost-digital-ocean.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MLH/mlh-localhost-digital-ocean/issues"
-  },
-  "homepage": "https://github.com/MLH/mlh-localhost-digital-ocean#readme",
-  "dependencies": {
-    "express": "^4.17.1"
+    "url": "git+https://github.com/alexwassel/Beach-Cleanup.git"
   }
 }
