@@ -4,7 +4,7 @@
   "description": "search for beach cleanup dates and location",
   "homepage": "https://alexwassel.me/Beach-Cleanup/",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "license": "ISC",
   "author": "Alex Wassel",
